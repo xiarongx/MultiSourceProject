@@ -1,9 +1,0 @@
-C:\Users\cxu\Documents\CI\Chandler\my code\NugetServer\MultiSourceProject\MultiSourceProject\bin\Debug\MultiSourceProject.exe.config
-C:\Users\cxu\Documents\CI\Chandler\my code\NugetServer\MultiSourceProject\MultiSourceProject\bin\Debug\MultiSourceProject.exe
-C:\Users\cxu\Documents\CI\Chandler\my code\NugetServer\MultiSourceProject\MultiSourceProject\bin\Debug\MultiSourceProject.pdb
-C:\Users\cxu\Documents\CI\Chandler\my code\NugetServer\MultiSourceProject\MultiSourceProject\bin\Debug\PrivateNugetMath.dll
-C:\Users\cxu\Documents\CI\Chandler\my code\NugetServer\MultiSourceProject\MultiSourceProject\obj\Debug\MultiSourceProject.csprojResolveAssemblyReference.cache
-C:\Users\cxu\Documents\CI\Chandler\my code\NugetServer\MultiSourceProject\MultiSourceProject\obj\Debug\MultiSourceProject.csproj.CoreCompileInputs.cache
-C:\Users\cxu\Documents\CI\Chandler\my code\NugetServer\MultiSourceProject\MultiSourceProject\obj\Debug\MultiSourceProject.exe
-C:\Users\cxu\Documents\CI\Chandler\my code\NugetServer\MultiSourceProject\MultiSourceProject\obj\Debug\MultiSourceProject.pdb
-C:\Users\cxu\Documents\CI\Chandler\my code\NugetServer\MultiSourceProject\MultiSourceProject\bin\Debug\Evaluator.dll
