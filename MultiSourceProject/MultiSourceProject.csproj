@@ -32,11 +32,14 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="ACReditPlus.TestLib1, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\ACReditPlus.TestLib1.1.0.0\lib\net462\ACReditPlus.TestLib1.dll</HintPath>
+    </Reference>
+    <Reference Include="ACReditPlus.TestLib2, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\ACReditPlus.TestLib2.1.0.0\lib\net462\ACReditPlus.TestLib2.dll</HintPath>
+    </Reference>
     <Reference Include="Evaluator, Version=1.0.0.6, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\Evaluator.1.0.0.6\lib\Evaluator.dll</HintPath>
-    </Reference>
-    <Reference Include="PrivateNugetMath, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\PrivateNugetMath.1.0.0\lib\net462\PrivateNugetMath.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -46,6 +49,12 @@
     <Reference Include="System.Data" />
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Xml" />
+    <Reference Include="Triad.TestLib1, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Triad.TestLib1.1.0.0\lib\net462\Triad.TestLib1.dll</HintPath>
+    </Reference>
+    <Reference Include="Triad.TestLib2, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Triad.TestLib2.1.0.0\lib\net462\Triad.TestLib2.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Program.cs" />
